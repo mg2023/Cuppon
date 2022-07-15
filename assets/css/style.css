@@ -1,0 +1,61 @@
+body {
+    font-family: 'Roboto';
+    font-weight: 300;
+    text-align: left;
+    color: #212529;
+}
+
+.fondo-verde {
+    background-color: #28A745;
+}
+
+.card-text1 {
+    font-size: 20px;
+}
+
+.card-text2 {
+    font-size: 16px;
+    color: #707070;
+}
+
+.fa {
+    font-size: 11px;
+    color: #707070;
+}
+
+.price {
+    text-align: right;
+    font-weight: 300;
+    font-size: 16px;
+    color: #707070;
+}
+
+.price-green {
+    color: #28A745;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.form { /*centra el boton enviar*/
+    text-align: center;
+}
+
+.title-form { /*centra el titulo*/
+    font-weight: 500;
+    font-size: 21px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.container-footer {
+    text-align: center;
+}
+
+.text-footer {
+    font-weight: 300;
+    font-size: 16px;
+    color: #707070;
+}
+
+
+
